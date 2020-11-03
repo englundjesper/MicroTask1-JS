@@ -1,1 +1,1 @@
-# MicroTask1-JS
+# MicroTask1-JavaScript
